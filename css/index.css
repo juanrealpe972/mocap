@@ -6,9 +6,24 @@ body{
     width: 100%;
     height: 100vh;
     text-align: center;
-
+    background-color: black;
+}
+.content{
+    text-decoration: none;
 }
 a{
     display: block;
-    
+    text-align: center;
+    width: 50px;
+    background-color:  #524a58;
+    border-radius: 10px;
+    padding: 15px 30px;
+    margin: 4px 2px ;
+    color: wheat;
+    text-decoration: none;
+}
+a:hover{
+    background-color: transparent;
+    border: 2px solid #524a58;
+    color: #ffffff;
 }
